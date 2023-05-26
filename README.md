@@ -5,3 +5,4 @@ The project involves preprocessing the data by removing stop words, converting a
 
 The project also includes an evaluation phase where the performance of the models is measured using metrics such as accuracy, precision, recall, and F1-score. Additionally, the project includes visualization techniques such as confusion matrices and ROC curves to help understand the model's performance
 
+This project then predicts troll.
